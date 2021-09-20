@@ -2,7 +2,7 @@
 
 How to create a simple website on AWS, configuring the password protected pages.
 
-Inside the src/ folder you'll find :
+Inside the **src/** folder you'll find :
 - *index.js* => A node Auth file, to handle the website passwords.
 - *s3_policy.json* => The AWS policy to use with the aws cli.
 - *trust_policy.json* => The Lambda@Edge policy to use with the aws cli.
